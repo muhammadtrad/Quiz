@@ -57,7 +57,7 @@
     font-family: var(--font-heading-stack);
     font-weight: bold;
     letter-spacing: 1.5px;
-    padding: 0.8rem 4rem; 
+    padding: 0.8rem 4rem;
     color: var(--main-font-color);
 
 }
@@ -81,19 +81,13 @@
     background-color: var(--light-white);
 }
 
-.progress_inner{
+.progress__inner{
     height: 10px;
     width: 0%;
     background-color: var(--main-theme-color);
     border-right: 2px solid black;
 
 }
-
-.jabquiz__choices-box{
-    
-
-}
-
 .jabquiz__choices{
     list-style-type: none;
     margin: 1 rem auto;
